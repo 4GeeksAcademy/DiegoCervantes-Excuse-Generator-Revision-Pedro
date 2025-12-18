@@ -4,7 +4,9 @@ import "./style.css";
 
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
-
+/*
+1- Nombres de variables no todos son camelCase, algunos son PascalCase
+*/
 let quien = ['Mi hermano','Mi perro','Mi padre','Mi madre',];
 let accion = ['destruyo', 'tiro', 'se tomo', 'se comio'];
 let ElQue = ['mi comida', 'mi postre', 'mi tarea', 'mi soda'];
